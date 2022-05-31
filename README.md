@@ -16,8 +16,9 @@ You can also log out to log in with another user.
 
 ## Project Demo
 
-![This is a alt text.](./src/assets/demo/Login.png "Login Page")
-![This is a alt text.](./src/assets/demo/Main Content.png "Main page")
+![This is a alt text.](./src/assets/img/demo/Login.png "Login Page")
+
+![This is a alt text.](./src/assets/img/demo/Main%20Content.png "Login Page")
 
 ## Developers
 
